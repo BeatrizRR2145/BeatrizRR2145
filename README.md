@@ -21,7 +21,7 @@
   
  ### Social:
 <div style="display: inline_block"><br>
-  <a href=https://www.instagram.com/beatriz_rosaofc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-    badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/beatriz_rosaofc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/beatriz-rosa-0000b020a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
